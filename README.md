@@ -13,12 +13,12 @@ permalink: /about/
 - Thinking about Jazz music
 
 ### Goal 目标
-- 即兴
-- 独奏曲
-- Jazz风格传播
+- 即兴 Improvisation
+- 独奏曲 solos
+- Jazz风格传播 Style communication
 
 ### 文章链接
-#### 待补充
+#### 待补充 to be continued
 [home page][home-page]
 
 [home-page]: https://jazzupsoul.github.io/
