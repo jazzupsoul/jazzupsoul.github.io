@@ -19,4 +19,6 @@ permalink: /about/
 
 ### 文章链接
 #### 待补充
-![alt text](https://jazzupsoul.github.io/)
+[home page][home-page]
+
+[home-page]: https://jazzupsoul.github.io/
